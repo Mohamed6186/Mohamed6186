@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mohamed Eihab</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Ehab</h1>
 <h3 align="center">AI Student | Aspiring Data Analyst | Python & SQL Enthusiast</h3>
 
 ## 🙋‍♂️ A little bit about me
 
 🎓 &nbsp;I'm a student at the **Faculty of Artificial Intelligence**, currently focused on **Data Analysis**.\
 🐍 &nbsp;I've learned **Python** and key data analysis libraries: **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**.\
-📊 &nbsp;Currently learning **Excel** and **SQL** to strengthen my data analysis toolkit.\
+📊 &nbsp;Currently learning **Advanced Excel** and **SQL** and **Power BI**to strengthen my data analysis toolkit.\
 🌱 &nbsp;Always exploring new ways to clean, analyze, and visualize data.\
 💬 &nbsp;Feel free to reach out if you want to talk about data, AI, or just connect!\
-✉️ &nbsp;You can email me at YOUR_EMAIL@example.com
+✉️ &nbsp;You can email me at we5428we@gmail.com
 
 ---
 
@@ -37,24 +37,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-> ⚠️ Note: This is just a GitHub metric and doesn't fully reflect my skill level — replace `YOUR_GITHUB_USERNAME` with your actual username for this to work.
-
----
-
-## 📌 Featured Projects
-
-<!-- اكتب هنا مشاريعك في تحليل البيانات لما تخلصها، مثال: -->
-- 🔗 [Project Name](https://github.com/YOUR_GITHUB_USERNAME/project-repo) — وصف قصير عن المشروع وإيه اللي اتعلمته منه.
-- 🔗 [Project Name](https://github.com/YOUR_GITHUB_USERNAME/project-repo) — وصف قصير عن المشروع وإيه اللي اتعلمته منه.
 
 ---
 
 ## 🔗 Connect with me
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.icons8.com/fluent/32/000000/github.png" alt="github"/></a>
-</p>
+  <a href="mailto:we5428we@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mohamed-ehab-956256391?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
 
 <p align="center">⭐️ Thanks for visiting my profile!</p>
