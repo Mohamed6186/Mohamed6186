@@ -7,7 +7,7 @@
 
 🎓 I'm a student at the **Faculty of Artificial Intelligence**.
 
-📊 Currently focusing on building my skills in **Data Analysis**.
+📊 Currently focusing on building my skills in **Data Science** and **Data Analysis**.
 
 🐍 I have learned **Python** and worked with important data analysis libraries such as:
 
@@ -19,7 +19,7 @@
 📚 Currently learning:
 
 - SQL
-- Microsoft Excel
+- Advanced Microsoft Excel
 
 🌱 I enjoy exploring datasets, cleaning data, discovering insights, and creating visualizations.
 
